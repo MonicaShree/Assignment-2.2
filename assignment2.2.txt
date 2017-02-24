@@ -19,7 +19,7 @@
 
 2. Explain Hadoop Cluster 
    
-  * Hadoop cluster is a special type of computational  cluster designed for storing and analyzing huge amounts of     unstructured data in a distributed computing environment .
+  * Hadoop cluster is a special type of computational  cluster designed for storing and analyzing huge amounts of unstructured data in a distributed computing environment .
 
   * It is comprised of three different node types namely master , worker and client nodes . 
 
